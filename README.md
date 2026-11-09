@@ -1,5 +1,7 @@
 # Gam101_UE_eg_mods-6789
-Unreal Engine Widgets, Timers, Lerp, Math
+
+Examples of Array, Map, Enum, Struct for week 9. Some examples of previously covered topics incl. UI updates, inheritance, use of Delta Time. Also event binding, function binding, even a Macro.
+Coming soon; Lerp, Sin and other game math. 
 
 * Wander around with WASD, mouselook and space for jump. 
 * Collect collectable (skulls, fish pinatas, etc) and see the count go up in the ui.
